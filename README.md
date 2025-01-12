@@ -8,9 +8,7 @@ Your moments, my lens—together, let's create memories that last a lifetime.
 [Get Started](services.html)
 
 About Us
---------
-
-![](assets/img/photographer.jpg)
+-------
 
 ### Welcome! I'm a passionate photographer dedicated to capturing the moments that matter most to you
 
