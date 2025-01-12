@@ -52,45 +52,6 @@ Clients
 
 ![](assets/img/clients/client-6.png)
 
-Reviews
--------
-
-See what our clients say about their unforgettable experiences through my lens
-
-![](assets/img/testimonials-bg.jpg)
-
-{ "loop": true, "speed": 600, "autoplay": { "delay": 5000 }, "slidesPerView": "auto", "pagination": { "el": ".swiper-pagination", "type": "bullets", "clickable": true } }
-
-![](assets/img/testimonials/testimonials-1.jpg)
-
-### person1
-
-Absolutely blown away by the photos! Every shot captured the emotions and details perfectly. You have an incredible talent for making moments come alive.
-
-![](assets/img/testimonials/testimonials-2.jpg)
-
-### person2
-
-The professionalism and creativity were outstanding. You made us feel so comfortable during the shoot, and the results were beyond our expectations. Highly recommended!
-
-![](assets/img/testimonials/testimonials-3.jpg)
-
-### person3
-
-Your ability to capture candid moments is unmatched. Looking at the photos brings back the magic of our special day. Thank you for preserving our memories so beautifully!
-
-![](assets/img/testimonials/testimonials-4.jpg)
-
-### person4
-
-The photos are breathtaking! You have such a keen eye for lighting and composition. I’m so grateful for the amazing work and the memories you've captured for us
-
-![](assets/img/testimonials/testimonials-5.jpg)
-
-### person5
-
-From start to finish, working with you was a breeze. The final images were stunning, and your attention to detail really showed in every shot. I can't wait to work with you again!
-
 ### Frequently Asked **Questions**
 
 ### What types of photography services do you offer?
